@@ -10,18 +10,12 @@ const NavigationLinks: INavBar[] = [
   {
     id: 2,
     title: "PAST EVENTS",
-    link: "/past-events",
+    link: "/leaderboard",
   },
   {
     id: 3,
     title: "POSTS",
     link: "/posts",
   },
-  // {
-  //   id: 4,
-  //   title: "REGISTER",
-  //   link: "/register",
-  // },
-  
 ];
 export default NavigationLinks;
